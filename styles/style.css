@@ -240,7 +240,7 @@ div.contacts2 div.container div.footer-contacts .toolbox-group2 .footer-conttact
 div.contacts2 div.container div.footer-contacts .toolbox-group2 p {
     text-decoration-line: none;
     color: #FFFFFF;
-    text-decoration-color: hwb(0 0% 100%);
+    /* text-decoration-color: hwb(0 0% 100%); */
 }
 
 
